@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="server" />
+        <module name="interfaces" />
+        <module name="arangodbPlugin" />
+        <module name="dynamoPlugin" />
+        <module name="saasPlugin" />
+        <module name="amazons3Plugin" />
+        <module name="smtpPlugin" />
+        <module name="graphqlPlugin" />
+        <module name="restApiPlugin" />
+        <module name="jsPlugin" />
+        <module name="appsmith-git" />
+        <module name="snowflakePlugin" />
+        <module name="redisPlugin" />
+        <module name="elasticSearchPlugin" />
+        <module name="redshiftPlugin" />
+        <module name="mysqlPlugin" />
+        <module name="firestorePlugin" />
+        <module name="mssqlPlugin" />
+        <module name="postgresPlugin" />
+        <module name="oraclePlugin" />
+        <module name="reactiveCaching" />
+        <module name="googleSheetsPlugin" />
+        <module name="mongoPlugin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="amazons3Plugin" options="-parameters" />
+      <module name="appsmith-git" options="-parameters" />
+      <module name="arangodbPlugin" options="-parameters" />
+      <module name="dynamoPlugin" options="-parameters" />
+      <module name="elasticSearchPlugin" options="-parameters" />
+      <module name="firestorePlugin" options="-parameters" />
+      <module name="googleSheetsPlugin" options="-parameters" />
+      <module name="graphqlPlugin" options="-parameters" />
+      <module name="interfaces" options="-parameters" />
+      <module name="jsPlugin" options="-parameters" />
+      <module name="mongoPlugin" options="-parameters" />
+      <module name="mssqlPlugin" options="-parameters" />
+      <module name="mysqlPlugin" options="-parameters" />
+      <module name="oraclePlugin" options="-parameters" />
+      <module name="postgresPlugin" options="-parameters" />
+      <module name="reactiveCaching" options="-parameters" />
+      <module name="redisPlugin" options="-parameters" />
+      <module name="redshiftPlugin" options="-parameters" />
+      <module name="restApiPlugin" options="-parameters" />
+      <module name="saasPlugin" options="-parameters" />
+      <module name="server" options="-parameters" />
+      <module name="smtpPlugin" options="-parameters" />
+      <module name="snowflakePlugin" options="-parameters" />
+    </option>
+  </component>
+</project>

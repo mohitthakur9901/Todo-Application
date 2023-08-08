@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-git/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-git/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-interfaces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-interfaces/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/amazons3Plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/amazons3Plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/arangoDBPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/arangoDBPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/dynamoPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/dynamoPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/elasticSearchPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/elasticSearchPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/firestorePlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/firestorePlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/googleSheetsPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/googleSheetsPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/graphqlPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/graphqlPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/jsPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/jsPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/mongoPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/mongoPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/mssqlPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/mssqlPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/mysqlPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/mysqlPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/oraclePlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/oraclePlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/postgresPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/postgresPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/redisPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/redisPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/redshiftPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/redshiftPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/restApiPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/restApiPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/saasPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/saasPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/smtpPlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/smtpPlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/snowflakePlugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/snowflakePlugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-plugins/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/appsmith-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/reactive-caching/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/reactive-caching/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsmith/app/server/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
